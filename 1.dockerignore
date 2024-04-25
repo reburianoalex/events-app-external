@@ -11,4 +11,4 @@ Dockerfile
 .nyc_output
 .git
 README.md
-logs
+logscd ~/events-app
